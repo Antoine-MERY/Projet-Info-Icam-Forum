@@ -1,0 +1,1 @@
+Fichier à incorporer dans wamp64->bin->mysql->mysql8.0.31->data et créer un virtualHost pour pouvoir avoir accès à la bdd
